@@ -1,0 +1,17 @@
+ID: 2
+Name: video_tcp_pull
+Type: JPG
+Address: 127.0.0.1
+Port: 11113
+Protocol: TCP_PULL
+IPS: 0.25
+.\Stream2\1.jpg
+.\Stream2\2.jpg
+.\Stream2\3.jpg
+.\Stream2\4.jpg
+.\Stream2\5.jpg
+.\Stream2\6.jpg
+.\Stream2\7.jpg
+.\Stream2\8.jpg
+.\Stream2\9.jpg
+.\Stream2\10.jpg
